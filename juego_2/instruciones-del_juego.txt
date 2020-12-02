@@ -1,0 +1,2 @@
+1.dar click sobre los objetos presentes en el mapa
+2.en la parte de abajo del mapa te indicara mediante "congelado" "muy frio" "frio" "tibio" "caliente" "muy caliente" "hirviendo" para indicarte que tan cerca o lejos te encuentras de el tesoro
